@@ -45,4 +45,4 @@ In order to avoid any potential spread venues should continuosly clean and sanit
 - Ministry of Health’s website for latest updates on COVID-19: https://www.moh.gov.sg/covid-19
 
 # Note
-This health measures were cppied and modified from [Fossia Summit](https://github.com/fossasia/Event-Safety-Measures#readme).
+This health measures were copied and modified from [Fossia Summit](https://github.com/fossasia/Event-Safety-Measures#readme).
